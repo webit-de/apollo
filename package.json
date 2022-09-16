@@ -45,12 +45,12 @@
     "apollo-cache-inmemory": "^1.6.5"
   },
   "devDependencies": {
-    "@babel/core": "latest",
-    "@babel/preset-env": "latest",
+    "@babel/core": "^7.19.1",
+    "@babel/preset-env": "^7.19.1",
     "@nuxt/types": "latest",
     "@types/graphql": "latest",
     "@types/universal-cookie": "latest",
-    "codecov": "latest",
+    "codecov": "^3.8.3",
     "core-js": "^2.6.11",
     "dotenv": "latest",
     "eslint": "latest",
@@ -62,10 +62,10 @@
     "eslint-plugin-promise": "latest",
     "eslint-plugin-standard": "latest",
     "eslint-plugin-vue": "latest",
-    "graphql-tag": "latest",
+    "graphql-tag": "^2.12.6",
     "jest": "latest",
     "jsdom": "latest",
-    "nuxt-edge": "latest",
+    "nuxt-edge": "^2.16.0-27720022.54e852f",
     "standard-version": "latest",
     "typescript": "latest"
   }
